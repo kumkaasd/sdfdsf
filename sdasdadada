@@ -27,7 +27,7 @@ do
 
 		FolderName = "Frame";
 
-		Key = Enum.KeyCode.RightShift;
+		Key = Enum.KeyCode.Insert;
 		Open = true;
 
 		Tabs = {};
